@@ -5,7 +5,7 @@
 Licenciado en Ciencias Jurídicas de la Universidad Santo Tomás. Juré como Abogado ante la Excelentísima Corte Suprema en 2018.
 Magíster en Derecho Privado por la Universidad Católica de la Santísima Concepción, en convenio con la Universidad de Salamanca, España.
 Técnico en Nivel Superior como Analista Programador por el Instituto Profesional Virginio Gómez de la Universidad de Concepción.
-Diplomados en: Administración y Gestión en Seguridad Privada (Instituto Teodoro Wickel), Formación Sindical (Universidad Santo Tomás), Análisis de Inteligencia (Universidad de Concepción), Técnicas en Análisis de Inteligencia (ANEPE - Ministerio de Defensa), Programación Java y Marketing Digital .
+Diplomados en: Administración y Gestión en Seguridad Privada (Instituto Teodoro Wickel-ELDE), Formación Sindical (Universidad Santo Tomás), Análisis de Inteligencia (Universidad de Concepción), Técnicas en Análisis de Inteligencia (ANEPE - Ministerio de Defensa), Programación Java y Marketing Digital .
 
 💼 Experiencia Profesional:
 
