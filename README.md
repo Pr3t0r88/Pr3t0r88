@@ -12,6 +12,8 @@ Diplomados en: Administración y Gestión en Seguridad Privada (Instituto Teodor
 Fundador de PRY Abogados, con sede en Los Ángeles, especializándome en Derecho Privado y Público.
 Agente capacitador, formando guardias de seguridad y vigilantes privados.
 Asesor privado en áreas de inteligencia, asesoría legal y seguridad privada.
+
+
 💡 Por qué deberías colaborar conmigo: 
 Mi combinación única de habilidades jurídicas y técnicas en informática me permite ofrecer una perspectiva integral en proyectos que requieren conocimientos en derecho y tecnología. Si estás buscando alguien que pueda construir puentes entre estos dos mundos y ayudarte a navegar por las complejidades legales relacionadas con la informática, ¡soy tu persona!
 
