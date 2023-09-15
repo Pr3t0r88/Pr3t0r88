@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👋 ¡Hola! Soy Daniel Pardo Adriasola, un apasionado Abogado y Analista Programador.
 
-<!--
-**Pr3t0r88/Pr3t0r88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Educación :
 
-Here are some ideas to get you started:
+Licenciado en Ciencias Jurídicas de la Universidad Santo Tomás. Juré como Abogado ante la Excelentísima Corte Suprema en 2018.
+Magíster en Derecho Privado por la Universidad Católica de la Santísima Concepción, en convenio con la Universidad de Salamanca, España.
+Técnico en Nivel Superior como Analista Programador por el Instituto Profesional Virginio Gómez de la Universidad de Concepción.
+Diplomados en: Administración y Gestión en Seguridad Privada (Instituto Teodoro Wickel), Formación Sindical (Universidad Santo Tomás), Análisis de Inteligencia (Universidad de Concepción), Técnicas en Análisis de Inteligencia (ANEPE - Ministerio de Defensa), Programación Java y Marketing Digital .
+💼 Experiencia Profesional:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Fundador de PRY Abogados, con sede en Los Ángeles, especializándome en Derecho Privado y Público.
+Agente capacitador, formando guardias de seguridad y vigilantes privados.
+Asesor privado en áreas de inteligencia, asesoría legal y seguridad privada.
+💡 Por qué deberías colaborar conmigo: 
+Mi combinación única de habilidades jurídicas y técnicas en informática me permite ofrecer una perspectiva integral en proyectos que requieren conocimientos en derecho y tecnología. Si estás buscando alguien que pueda construir puentes entre estos dos mundos y ayudarte a navegar por las complejidades legales relacionadas con la informática, ¡soy tu persona!
+
+🔗 Conéctate conmigo: linkedin:  https://www.linkedin.com/in/daniel-antonio-pardo-adriasola-337b0793
+
+- 🔭 Actualmente trabajo en P.R.Y.Abogados
+- 📫 me puedes enviar un correo electronico en daniel.pardo.adriasola@gmail.com
 -->
