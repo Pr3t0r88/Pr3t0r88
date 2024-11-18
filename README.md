@@ -1,4 +1,4 @@
-### 👾 @Pr3t0r88 👋 ¡Hola! Soy Daniel Pardo Adriasola, un apasionado Abogado, Ingeniero Informatico y Analista Programador.
+### 👾 @Pr3t0r88 👋 ¡Hola! Soy Daniel Pardo Adriasola, Abogado, Ingeniero Informatico y Analista Programador.
 
 🎓Educación :
 
